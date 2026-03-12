@@ -1,0 +1,9 @@
+/.idea/
+/*.iml
+/bin/
+/target/
+/build/
+*.class
+.DS_Store
+Thumbs.db
+*.log
