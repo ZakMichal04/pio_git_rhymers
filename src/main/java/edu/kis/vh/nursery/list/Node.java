@@ -20,7 +20,7 @@ public class Node {
         return prev;
     }
 
-    public int value;
+    public final int value;
     public Node prev, next;
 
     public Node(int i) {

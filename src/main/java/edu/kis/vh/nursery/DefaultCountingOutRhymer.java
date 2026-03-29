@@ -6,7 +6,7 @@ public class DefaultCountingOutRhymer {
     private static final int EMPTY_RHYMER_INDICATOR = -1;
     private static final int DEFAULT_VALUE = -1;
 
-    private int[] numbers = new int[CAPACITY];
+    private final int[] numbers = new int[CAPACITY];
 
     private int total = -1;
 
