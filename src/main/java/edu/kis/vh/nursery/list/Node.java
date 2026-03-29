@@ -5,9 +5,6 @@ public class Node {
     public int getValue(){
         return value;
     }
-    public void setValue(int value){
-        this.value = value;
-    }
     public void setPrev(Node prev){
         this.prev = prev;
     }
