@@ -1,7 +1,7 @@
 package edu.kis.vh.nursery;
 
 public class DefaultCountingOutRhymer {
-
+    
     private static final int CAPACITY = 12;
     private static final int EMPTY_RHYMER_INDICATOR = -1;
     private static final int DEFAULT_VALUE = -1;
